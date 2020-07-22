@@ -1,0 +1,11 @@
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\bin\Debug\netcoreapp3.1\OrderProcessingApplication.exe
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\bin\Debug\netcoreapp3.1\OrderProcessingApplication.deps.json
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\bin\Debug\netcoreapp3.1\OrderProcessingApplication.runtimeconfig.json
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\bin\Debug\netcoreapp3.1\OrderProcessingApplication.runtimeconfig.dev.json
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\bin\Debug\netcoreapp3.1\OrderProcessingApplication.dll
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\bin\Debug\netcoreapp3.1\OrderProcessingApplication.pdb
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\obj\Debug\netcoreapp3.1\OrderProcessingApplication.csprojAssemblyReference.cache
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\obj\Debug\netcoreapp3.1\OrderProcessingApplication.AssemblyInfoInputs.cache
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\obj\Debug\netcoreapp3.1\OrderProcessingApplication.AssemblyInfo.cs
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\obj\Debug\netcoreapp3.1\OrderProcessingApplication.dll
+C:\OrderProcess\OrderProcessingApplication\OrderProcessingApplication\obj\Debug\netcoreapp3.1\OrderProcessingApplication.pdb
